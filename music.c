@@ -1,0 +1,42 @@
+#include <stdio.h>
+int main()
+{
+    printf("片尾曲\n");
+    printf("大家一起喜羊羊\n");
+    printf("原唱：周笔畅\n");
+    printf("大白菜鸡毛菜通心菜油麦菜\n");
+	printf("绿的菜白的菜\n");
+	printf("什么菜炒什么菜\n");
+	printf("喜羊羊美羊羊懒羊羊沸羊羊\n");
+	printf("什么羊什么样\n");
+	printf("我们是一群小小的羊\n");
+	printf("小小的羊儿都很善良\n");
+	printf("善良得只会在草原上\n");
+	printf("懒懒的美美的晒太阳\n");
+	printf("虽然邻居住着灰太狼\n");
+	printf("虽然有时候没有太阳\n");
+	printf("只有羊村里有音乐\n");
+	printf("唱唱的跳跳的都疯狂\n");
+	printf("大白菜鸡毛菜通心菜油麦菜\n");
+	printf("绿的菜白的菜\n");
+	printf("什么菜炒什么菜\n");
+	printf("喜羊羊美羊羊懒羊羊沸羊羊\n");
+	printf("什么羊什么样\n");
+	printf("什么羊都喜洋洋\n");
+	printf("狼来的日子很平常\n");
+	printf("狼嚎的声音像饿得慌\n");
+	printf("小小的羊儿爱吃草\n");
+	printf("必要时也不怕跟狼打仗\n");
+	printf("我们虽然是群小小的羊\n");
+	printf("每个节日都一起歌唱\n");
+	printf("阳光空气青草和花香\n");
+	printf("挤挤的满满的在草原上\n");
+	printf("大白菜鸡毛菜通心菜油麦菜\n");
+	printf("绿的菜白的菜\n");
+	printf("什么菜炒什么菜\n");
+	printf("喜羊羊美羊羊懒羊羊沸羊羊\n");
+	printf("什么羊什么样\n");
+	printf("什么羊都喜洋洋\n");
+	printf("大家一起喜洋洋\n");
+    return 0;
+}
